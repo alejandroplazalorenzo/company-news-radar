@@ -1,0 +1,4 @@
+{"content": [
+ {"id": 1, "codConcesion": "SB100", "numeroConvocatoria": "800001", "convocatoria": "Ayudas a proyectos de hidrógeno renovable", "nivel2": "MINISTERIO X", "nivel3": "SECRETARÍA Y", "importe": 2500000.0, "fechaConcesion": "2026-10-30"},
+ {"id": 2, "codConcesion": "SB101", "numeroConvocatoria": "800002", "convocatoria": "Contratos de formación en prácticas", "nivel2": "COMUNIDAD Z", "importe": 4800.0, "fechaConcesion": "2026-10-31"}
+], "totalElements": 2}

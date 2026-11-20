@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Sala de prensa</title>
+<entry><title>Fluidra abre un centro log&#237;stico ficticio en Villaejemplo</title>
+<link rel="self" href="https://www.fluidra-example.test/feed/entry-1"/>
+<link rel="alternate" href="https://www.fluidra-example.test/press-room/centro-ficticio"/>
+<updated>2026-11-10T09:00:00Z</updated><summary>Nuevo centro inventado.</summary></entry>
+</feed>

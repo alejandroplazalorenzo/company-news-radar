@@ -1,0 +1,33 @@
+id,group,name,tax_id,tax_id_source,registered_names,aliases,exclude,website
+santander,Santander,"BANCO SANTANDER, S.A.",A39000013,CNMV entity page by tax id (checked 2026-11-18),,Banco Santander|Grupo Santander,,https://www.santander.com
+bbva,BBVA,"BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",A48265169,CNMV entity page by tax id (checked 2026-11-18),,BBVA,,https://www.bbva.com
+iberdrola,Iberdrola,"IBERDROLA, S.A.",A48010615,CNMV entity page by tax id (checked 2026-11-18),,Iberdrola,,https://www.iberdrola.com
+inditex,Inditex,"INDUSTRIA DE DISEÑO TEXTIL, S.A.",A15075062,CNMV entity page by tax id (checked 2026-11-18),,Inditex,,https://www.inditex.com
+telefonica,Telefónica,"TELEFÓNICA, S.A.",A28015865,CNMV entity page by tax id (checked 2026-11-18),,Telefónica,,https://www.telefonica.com
+repsol,Repsol,"REPSOL, S.A.",A78374725,CNMV entity page by tax id (checked 2026-11-18),,Repsol,,https://www.repsol.com
+caixabank,CaixaBank,"CAIXABANK, S.A.",A08663619,CNMV entity page by tax id (checked 2026-11-18),,CaixaBank,,https://www.caixabank.com
+acs,ACS,"ACS, ACTIVIDADES DE CONSTRUCCIÓN Y SERVICIOS, S.A.",A28004885,CNMV entity page by tax id (checked 2026-11-18),,Grupo ACS|ACS Actividades de Construcción,,https://www.grupoacs.com
+aena,Aena,"AENA, S.M.E., S.A.",A86212420,CNMV entity page by tax id (checked 2026-11-18),,Aena,,https://www.aena.es
+endesa,Endesa,"ENDESA, S.A.",A28023430,CNMV entity page by tax id (checked 2026-11-18),,Endesa,Liga Endesa,https://www.endesa.com
+naturgy,Naturgy,"NATURGY ENERGY GROUP, S.A.",A08015497,CNMV entity page by tax id (checked 2026-11-18),,Naturgy,,https://www.naturgy.com
+redeia,Redeia,"REDEIA CORPORACIÓN, S.A.",A78003662,CNMV entity page by tax id (checked 2026-11-18),,Redeia|Red Eléctrica,,https://www.redeia.com
+mapfre,Mapfre,"MAPFRE, S.A.",A08055741,CNMV entity page by tax id (checked 2026-11-18),,Mapfre,,https://www.mapfre.com
+sabadell,Banco Sabadell,"BANCO DE SABADELL, S.A.",A08000143,CNMV entity page by tax id (checked 2026-11-18),,Banco Sabadell|Banco de Sabadell,,https://www.grupbancsabadell.com
+cellnex,Cellnex,"CELLNEX TELECOM, S.A.",A64907306,CNMV entity page by tax id (checked 2026-11-18),,Cellnex,,https://www.cellnex.com
+acciona,Acciona,"ACCIONA, S.A.",A08001851,CNMV entity page by tax id (checked 2026-11-18),,Acciona,,https://www.acciona.com
+indra,Indra,"INDRA SISTEMAS, S.A.",A28599033,CNMV entity page by tax id (checked 2026-11-18),,Indra,,https://www.indracompany.com
+enagas,Enagás,"ENAGÁS, S.A.",A28294726,CNMV entity page by tax id (checked 2026-11-18),,Enagás,,https://www.enagas.es
+bankinter,Bankinter,"BANKINTER, S.A.",A28157360,CNMV entity page by tax id (checked 2026-11-18),,Bankinter,,https://www.bankinter.com
+grifols,Grifols,"GRIFOLS, S.A.",A58389123,CNMV entity page by tax id (checked 2026-11-18),,Grifols,,https://www.grifols.com
+sacyr,Sacyr,"SACYR, S.A.",A28013811,CNMV entity page by tax id (checked 2026-11-18),,Sacyr,,https://www.sacyr.com
+acerinox,Acerinox,"ACERINOX, S.A.",A28250777,CNMV entity page by tax id (checked 2026-11-18),,Acerinox,,https://www.acerinox.com
+merlin,Merlin Properties,"MERLIN PROPERTIES SOCIMI, S.A.",A86977790,CNMV entity page by tax id (checked 2026-11-18),"MERLIN PROPERTIES, SOCIMI, S.A.",Merlin Properties,,https://www.merlinproperties.com
+colonial,Colonial,"INMOBILIARIA COLONIAL, SOCIMI, S.A.",A28027399,CNMV entity page by tax id (checked 2026-11-18),"COLONIAL SFL, SOCIMI, S.A.",Inmobiliaria Colonial|Colonial SFL,,https://www.inmocolonial.com
+logista,Logista,"LOGISTA INTEGRAL, S.A.",A87008579,CNMV entity page by tax id (checked 2026-11-18),,Logista,,https://www.logista.com
+fluidra,Fluidra,"FLUIDRA, S.A.",A17728593,CNMV entity page by tax id (checked 2026-11-18),,Fluidra,,https://www.fluidra.com
+solaria,Solaria,"SOLARIA ENERGÍA Y MEDIO AMBIENTE, S.A.",A83511501,CNMV entity page by tax id (checked 2026-11-18),"SOLARIA ENERGIA Y MEDIOAMBIENTE, S.A.",Solaria Energía|Solaria,,https://www.solariaenergia.com
+unicaja,Unicaja,"UNICAJA BANCO, S.A.",A93139053,CNMV entity page by tax id (checked 2026-11-18),,Unicaja Banco|Unicaja,Unicaja Baloncesto|Unicaja Málaga|baloncesto,https://www.unicajabanco.com
+rovi,Rovi,"LABORATORIOS FARMACÉUTICOS ROVI, S.A.",A28041283,CNMV entity page by tax id (checked 2026-11-18),,Laboratorios Rovi|Rovi,,https://www.rovi.es
+amadeus,Amadeus,"AMADEUS IT GROUP, S.A.",A84236934,CNMV entity page by tax id (checked 2026-11-18),,Amadeus IT|Amadeus,Mozart,https://www.amadeus.com
+puig,Puig,"PUIG BRANDS, S.A.",,"not found in the CNMV entity lookup (checked 2026-11-18); left empty",,Puig Brands|grupo Puig,,https://www.puig.com
+iag,IAG,"INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A.",A85845535,CNMV entity page by tax id (checked 2026-11-18),,IAG|International Airlines Group,Insurance Australia,https://www.iairgroup.com

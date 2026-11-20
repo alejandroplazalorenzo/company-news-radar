@@ -1,0 +1,60 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "company-news-radar"
+version = "0.1.0"
+description = "Watches the press, company newsrooms and official sources for news about a list of companies, classifies it with an LLM under a daily quota and keeps only what changes the business."
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [{ name = "Alejandro Plaza Lorenzo", email = "alejandroplaza.dev@gmail.com" }]
+requires-python = ">=3.11"
+dependencies = [
+    "httpx>=0.27,<1",
+    "lxml>=5",
+    "truststore>=0.9",
+    "tzdata>=2024.1; sys_platform == 'win32'",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8",
+    "ruff==0.16.8",  # pinned: formatter output must match between local runs and CI
+]
+
+[project.scripts]
+company-news-radar = "company_news_radar.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+company_news_radar = ["sql/*.sql"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+src = ["src", "tests", "scripts"]
+
+[tool.ruff.lint]
+select = [
+    "E",   # pycodestyle errors
+    "W",   # pycodestyle warnings
+    "F",   # pyflakes
+    "I",   # isort
+    "B",   # bugbear
+    "UP",  # pyupgrade
+    "SIM", # simplify
+    "RUF", # ruff-specific
+]
+# Word lists are written as one string and split: easier to read and to edit.
+ignore = ["SIM905"]
+
+[tool.ruff.lint.per-file-ignores]
+# A table of feeds, one per line: the URLs are what they are.
+"src/company_news_radar/sources/catalogue.py" = ["E501"]

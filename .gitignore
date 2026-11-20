@@ -1,0 +1,36 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python caches and build output
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Tool caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Fetched news (headlines, snippets), the SQLite store, the quota counter, call logs,
+# judge queues and labels, and generated digests: local only
+data/
+*.sqlite
+*.sqlite3
+*.db
+reports/
+
+# Secrets (the Gemini key lives only in the local .env)
+.env
+.env.*
+!.env.example
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

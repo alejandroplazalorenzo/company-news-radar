@@ -1,0 +1,7 @@
+{"notices": [
+ {"publication-number": "700001-2026", "publication-date": "2026-11-05+01:00", "winner-identifier": ["ESA28013811", "B99999999"],
+  "winner-name": {"spa": ["SACYR, S.A."]}, "buyer-name": {"spa": ["Ayuntamiento de Ejemplo"]},
+  "notice-title": {"spa": "España – Servicios de limpieza viaria"}, "result-value-notice": "1250000"},
+ {"publication-number": "700002-2026", "publication-date": "2026-11-06+01:00", "winner-identifier": ["B11111111"],
+  "notice-title": {"spa": "Otro contrato"}}
+], "totalNoticeCount": 2}

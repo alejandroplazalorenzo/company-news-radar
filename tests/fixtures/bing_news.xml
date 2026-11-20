@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:News="https://www.bing.com/news/search?q=x&amp;format=rss"><channel><title>Bing</title>
+<item><title>Rovi abre una planta ficticia en Villaejemplo</title>
+<link>http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=1&amp;url=https%3a%2f%2fwww.diario-uno.test%2fempresas%2frovi-villaejemplo%3futm_source%3drss&amp;c=1&amp;mkt=es-es</link>
+<description>La farmac&#233;utica Rovi inaugura en Villaejemplo una f&#225;brica inventada para este test ...</description>
+<pubDate>Wed, 04 Nov 2026 09:00:00 GMT</pubDate><News:Source>Diario Uno</News:Source></item>
+<item><title>El Ibex 35 abre la sesi&#243;n al alza</title>
+<link>http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;url=https%3a%2f%2fwww.diario-dos.test%2fmercados%2fibex&amp;c=2</link>
+<description>El selectivo sube con Rovi, Indra y Grifols entre los mejores valores.</description>
+<pubDate>Tue, 03 Nov 2026 08:05:00 GMT</pubDate><News:Source>Diario Dos</News:Source></item>
+</channel></rss>

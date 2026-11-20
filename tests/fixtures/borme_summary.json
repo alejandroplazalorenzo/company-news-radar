@@ -1,0 +1,11 @@
+{"status": {"code": "200", "text": "ok"}, "data": {"sumario": {"metadatos": {"fecha_publicacion": "20261116"},
+ "diario": [{"numero": "219", "seccion": [
+  {"codigo": "A", "nombre": "SECCIÓN PRIMERA", "apartado": []},
+  {"codigo": "C", "nombre": "SECCIÓN SEGUNDA", "apartado": [
+   {"codigo": "C1", "nombre": "FUSIONES Y ABSORCIONES DE EMPRESAS", "item": [
+     {"identificador": "BORME-C-2026-9001", "titulo": "ACERINOX, S.A. (SOCIEDAD ABSORBENTE)\nACERINOX EUROPA HOLDING, S.L.U. (SOCIEDAD ABSORBIDA)",
+      "url_pdf": {"texto": "https://www.boe.es/borme/dias/2026/11/16/pdfs/BORME-C-2026-9001.pdf"}, "url_html": "https://www.boe.es/diario_borme/txt.php?id=BORME-C-2026-9001"},
+     {"identificador": "BORME-C-2026-9002", "titulo": "OTRA EMPRESA CUALQUIERA, S.L. (SOCIEDAD ABSORBENTE)", "url_html": "https://www.boe.es/diario_borme/txt.php?id=BORME-C-2026-9002"}]},
+   {"codigo": "C2", "nombre": "CONVOCATORIAS DE JUNTAS", "item":
+     {"identificador": "BORME-C-2026-9003", "titulo": "SACYR, S.A.", "url_html": "https://www.boe.es/diario_borme/txt.php?id=BORME-C-2026-9003"}}
+  ]}]}]}}}
